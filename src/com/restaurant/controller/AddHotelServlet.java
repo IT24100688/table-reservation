@@ -13,7 +13,7 @@ public class AddHotelServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
 
-        // 1. Get hotel details from form
+
         String name = request.getParameter("name");
         String description = request.getParameter("description");
         String location = request.getParameter("location");
