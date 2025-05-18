@@ -62,7 +62,6 @@ public class DeleteHotelServlet extends HttpServlet {
     }
 
     private void updateHotelTableManager(String hotelName) {
-        // Get the current manager from context
         com.restaurant.model.HotelTableManager manager =
                 (com.restaurant.model.HotelTableManager) getServletContext().getAttribute("manager");
 
