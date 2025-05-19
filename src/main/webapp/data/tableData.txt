@@ -1,0 +1,4 @@
+Tropical Paradise|VIP:10|Family:6|Outdoor:4
+Hilton Colombo|VIP:1|Family:1|Outdoor:1
+Luxury Inn|VIP:2|Family:4|Outdoor:2
+The Royal Castle|VIP:7|Family:7|Outdoor:5
