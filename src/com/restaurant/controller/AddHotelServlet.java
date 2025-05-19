@@ -26,13 +26,13 @@ public class AddHotelServlet extends HttpServlet {
             return;
         }
 
-        // 3. Parse features into list
+     
         List<String> features = new ArrayList<>();
         if (featuresStr != null && !featuresStr.isEmpty()) {
             features = Arrays.asList(featuresStr.split("\\s*,\\s*"));
         }
 
-        // 4. Create hotel line format for hotels.txt
+       
         String hotelLine = String.join("|",
                 name,
                 description,
