@@ -1,0 +1,10 @@
+Luxury Inn|Experience unparalleled 5-star luxury|Colombo|https://img.freepik.com/free-photo/neat-tables-nice-empty-clean-restaurant_181624-5890.jpg?ga=GA1.1.978218794.1743964198&semt=ais_hybrid&w=740|Free WiFi,Pool,Restaurant
+Tropical Paradise Sri Lanka|Beachfront bungalows with cocktails|Colombo|https://img.freepik.com/free-photo/house-landscape-pool-relaxation-garden_1203-4900.jpg?semt=ais_hybrid&w=740|Beach Access,Bar,Free Parking
+Hilton Colombo|Modern elegance in the heart of the city|Colombo|https://img.freepik.com/free-photo/luxury-hotel-room_1203-1564.jpg?semt=ais_hybrid&w=740|Smart TV,Minibar,Free WiFi
+Serene Retreat|Tranquil mountain getaway with spa|Kandy|https://img.freepik.com/free-photo/resort-swimming-pool_74190-7000.jpg?semt=ais_hybrid&w=740|Spa,Yoga Classes,Scenic Views
+Ocean Breeze|Private beach villas with infinity pools|Galle|https://img.freepik.com/free-photo/beautiful-luxury-hotel-swimming-pool-resort_74190-7433.jpg?semt=ais_hybrid&w=740|Private Pool,Butler Service,Gourmet Dining
+Green Valley Eco Lodge|Sustainable luxury in the jungle|Sigiriya|https://img.freepik.com/free-photo/wooden-house-nature_23-2149721808.jpg?semt=ais_hybrid&w=740|Eco-Friendly,Wildlife Tours,Organic Meals
+Grand Kingsbury|Historic charm meets modern comfort|Colombo|https://img.freepik.com/free-photo/luxury-classic-hotel-room_23-2149419603.jpg?semt=ais_hybrid&w=740|Historic Building,Fitness Center,Rooftop Bar
+Sunset Beach Resort|Stunning sunsets and oceanfront dining|Negombo|https://img.freepik.com/free-photo/beautiful-shot-beach-resort-with-pool_181624-20693.jpg?semt=ais_hybrid&w=740|Sunset Views,Beach Bar,Kids Club
+Mountain Peak Hotel|Panoramic hill station retreat|Nuwara Eliya|https://img.freepik.com/free-photo/cottage-lake_181624-19924.jpg?semt=ais_hybrid&w=740|Fireplace,Hiking Trails,Tea Estate Tours
+Urban Loft Hotel|Trendy city stay with rooftop lounge|Colombo|https://img.freepik.com/free-photo/modern-luxury-apartment_23-2149386917.jpg?semt=ais_hybrid&w=740|Rooftop Pool,Coworking Space,24/7 Cafe
